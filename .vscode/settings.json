@@ -1,0 +1,7 @@
+{
+  "workbench.colorCustomizations": {
+    //배너 색깔을 바꾸는 설정
+    "titleBar.activeBackground": "#F54133",
+    "titleBar.inactiveBackground": "#F54133"
+  }
+}
