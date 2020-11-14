@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hackorKR/React-youtube/static/css/main.2c57569a.chunk.css",
+    "main.js": "/hackorKR/React-youtube/static/js/main.16460ea1.chunk.js",
+    "main.js.map": "/hackorKR/React-youtube/static/js/main.16460ea1.chunk.js.map",
+    "runtime-main.js": "/hackorKR/React-youtube/static/js/runtime-main.a6e40162.js",
+    "runtime-main.js.map": "/hackorKR/React-youtube/static/js/runtime-main.a6e40162.js.map",
+    "static/js/2.1b4ca961.chunk.js": "/hackorKR/React-youtube/static/js/2.1b4ca961.chunk.js",
+    "static/js/2.1b4ca961.chunk.js.map": "/hackorKR/React-youtube/static/js/2.1b4ca961.chunk.js.map",
+    "index.html": "/hackorKR/React-youtube/index.html",
+    "static/css/main.2c57569a.chunk.css.map": "/hackorKR/React-youtube/static/css/main.2c57569a.chunk.css.map",
+    "static/js/2.1b4ca961.chunk.js.LICENSE.txt": "/hackorKR/React-youtube/static/js/2.1b4ca961.chunk.js.LICENSE.txt",
+    "static/media/youtube_logo.14511977.png": "/hackorKR/React-youtube/static/media/youtube_logo.14511977.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6e40162.js",
+    "static/js/2.1b4ca961.chunk.js",
+    "static/css/main.2c57569a.chunk.css",
+    "static/js/main.16460ea1.chunk.js"
+  ]
+}
